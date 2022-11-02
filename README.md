@@ -17,3 +17,7 @@ See attached screenshots
 ## Download
 
 [thingiverse](https://www.thingiverse.com/thing:5601881)
+
+## Software
+
+Rhino 7 + Grasshopper
