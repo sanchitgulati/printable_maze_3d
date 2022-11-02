@@ -2,6 +2,10 @@
 
 Project to create 3D maze from puzzle generated at https://keesiemeijer.github.io/maze-generator/#generate
 
+## Screenshot
+
+![Rendered](Rendered.jpg)
+
 ## Instructions
 
 See attached screenshots
